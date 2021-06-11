@@ -22,7 +22,7 @@ A partir du moniteur série, vous obtenez la tension. vous pouvez ainsi calculer
 
 # RESSOURCES À TÉLÉCHARGER :
 
-Ressource utilisation : [GP2Y0A21YK](https://github.com/pierron-asco-celda/33138-Capteur_uv_GROVE/blob/main/src/Datasheet_GUVA-S12D.pdf)
+Ressource utilisation : [GP2Y0A21YK](https://github.com/pierron-asco-celda/33169-Telemetre_ir_GROVE/blob/main/src/Datasheet_GP2Y0A21YK.pdf)
 
 # Exemple :
 ### Arduino / C++
