@@ -2,7 +2,7 @@
 
 Telemetre ir GROVE [33169](https://www.pierron.fr/telemetre-ir-grove.html)
 
-<div style="text-align: justify">Le capteur de proximité infrarouge de 80 cm est un capteur de mesure de distance de type à usage général. Ce capteur SharpGP2Y0A21YK, bénéficie d’un petit boîtier et d’une très faible consommation de courant, prend une lecture de distance continue et renvoie une tension analogique correspondante avec une plage de 10cm à 80cm.</div>
+<div style="text-align: justify">Le capteur de proximité infrarouge de 80 cm est un capteur de mesure de distance de type à usage général. Ce capteur SHARP GP2Y0A21YK, bénéficie d’un petit boîtier et d’une très faible consommation de courant. Il fait une lecture de distance continue et renvoie une tension analogique correspondante avec une plage de 10 cm à 80 cm.</div>
 
 Caractéristiques techniques :
 - Alimentation : 2,5 à 7 V (typiquement : 5 V)
@@ -12,11 +12,11 @@ Caractéristiques techniques :
 ![L-33169](/img/L-33169.jpg)
 
 # Usage :
-Pour l’utilisation de ce module référez-vous aux indications présentes sur le circuit imprimé GROVE.
+Pour l’utilisation de ce module, référez-vous aux indications présentes sur le circuit imprimé GROVE.
 
 # Complément sur la programmation :
 
-A partir du moniteur série, vous obtenez la tension. vous pouvez ainsi calculer et trouver la distance à l’objet réfléchissant selon la figure ci-dessous.
+À partir du moniteur série, vous obtenez la tension. vous pouvez ainsi calculer et trouver la distance à l’objet réfléchissant selon la figure ci-dessous.
 
 ![C-33169](/img/C-33169.jpg)
 
